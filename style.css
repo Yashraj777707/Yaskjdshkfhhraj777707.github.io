@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  background-color: #B3FFAE;
+}
+h1{
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  font-size: 4em;
+  font-weight: bold;
+  color: #FF1E56;
+  font-family: 'Pacifico', cursive;
+}
+h2{
+  color: #C70039;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  font-size: 2em;
+  font-weight: bold;
+  font-family: 'Pacifico', cursive;
+}
+p{
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  font-size: 2em;
+  font-weight: bold;
+  font-family: 'Pacifico', cursive;
+}
+.dice{
+  position: absolute;
+
+  left:30%;
+}
+.dice1{
+  position: absolute;
+  left: 60%;
+}
